@@ -193,3 +193,15 @@ Only support the internal schema initially.
 - AI tailoring
 - PDF generation
 
+## 💡 Design Philosophy
+
+- Clean
+- Minimal
+- ATS-friendly
+- No over-engineered dependencies
+- Clear internal data schema
+- Future-proof structure
+
+## 📜 License
+
+MIT
